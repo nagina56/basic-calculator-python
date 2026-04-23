@@ -20,11 +20,13 @@ This is a simple calculator project built using Python. It performs basic arithm
    python_calculator.py
 
 ## Example
-  Enter first number: 10
-  Enter second number: 5
+Enter first number: 10
 
-  Choose operation: + - * /
-  Result: 10 + 5 = 15
+Enter second number: 5
+
+Choose operation: + - * /
+  
+Result: 10 + 5 = 15
 
 ## Purpose
 This project is made for beginners to understand basic Python concepts like:
