@@ -39,5 +39,10 @@ Nagina Azhar
 
 ## License
 This project is for educational purposes only.
+
+## Screenshot  
+
+![Calculator Screenshot]
+(Screenshot_simple_calculator.png)
    
 
