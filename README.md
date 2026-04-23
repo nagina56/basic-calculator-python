@@ -44,5 +44,8 @@ This project is for educational purposes only.
 
 ![Calculator Screenshot]
 (Screenshot_simple_calculator.png)
+
+<img width="473" height="339" alt="Screenshot_simple_calculator" src="https://github.com/user-attachments/assets/632c7ae3-7242-4fec-9e59-793ba0cff6e6" />
+
    
 
